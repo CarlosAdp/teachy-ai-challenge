@@ -21,6 +21,9 @@ def extract_content(
     The output of this function serves the purpose to feed GPT with context,
     and enable it to identify the area of each question in the PDF.
     '''
+    image_dir = Path(os.path.join(output_dir, 'images'))
+    image_dir.mkdir(exist_ok=True, parents=True)
+
     pdf_content = []
 
     with pymupdf.open(path) as pdf:
@@ -56,6 +59,15 @@ def extract_content(
                 except ValueError:
                     bbox = (None, None, None, None)
 
+                # Save image
+                img = Image.open(io.BytesIO(image_bytes))
+                img_path = image_dir / f'{page_number}_{img_index}.png'
+                try:
+                    img.save(img_path, 'PNG', quality=70, optimized=True)
+                except OSError:
+                    img.convert('RGB').save(img_path, 'PNG',
+                                            quality=70, optimized=True)
+
                 page_content.append({
                     'type': 'image',
                     'content': None,  # No textual content for images
@@ -65,6 +77,7 @@ def extract_content(
                         'x1': bbox[2],
                         'y1': bbox[3],
                     },
+                    'image_path': img_path.as_posix()
                 })
 
             # Add the page content to the overall PDF content

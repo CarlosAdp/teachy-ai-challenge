@@ -5,6 +5,42 @@
 The goal is to extract relevant information from exam questions from PDF files,
 including question number, statement, support text, alternatives and images.
 
+## Installation and Execution
+
+First, configure a `.env` file with your OpenAI API Key:
+
+```
+# .env
+OPENAI_API_KEY=sk-...
+```
+
+To run the code locally, install the required Python packages
+
+```bash
+(env) $ python -m pip install -r app/requirements.txt
+```
+
+Then run the `app/main.py` script, informing which exam you are looking to parse:
+
+```bash
+(env) $ python app.main.py ime
+```
+
+## Results
+
+All artifacts produced are stored in the `out/<exam>/`. There you'll find the
+following subdirectories and files
+
+- `images/`: contains all the PDF images
+- `questions/`: contains clipped questions
+- `<question_number>.json`: the questions data, as requested in the challenge
+- `execution.metadata.json`: information about time and tokens spent, cost in dollars and data volume.
+
+>
+> 💡Tip: If you get the `openai.RateLimitError` exception, try removing logos
+> and other spare images from the `out/<exam>/images/` directory.
+>
+
 ## Proposed solution
 
 Exams in the entrance collection are issued by different organizations and have
@@ -52,3 +88,16 @@ each question:
 - `support_text`
 - `alternatives`
 - `images`
+
+## Next Steps
+
+Find below some improvements that can be made to this pipeline
+
+1. Handle exam layouts with two or more columns.
+2. Remove icons and logos from the images folder, to reduce the number of
+   tokens requested to the OpenAI API.
+3. Give more context to the questions parser about the images pages, limiting
+    the search to be made only in the page of the question.
+4. Improve the quality of saved images.
+5. Support multiple questions that reference one piece of support text.
+5. Build a question visualizer for quick consultation (using Streamlit).

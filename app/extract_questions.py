@@ -39,15 +39,22 @@ def crop_questions_to_png(
             coordinates["x0"], coordinates["y0"], coordinates["x1"], coordinates["y1"]
         )
 
+        if rect.width == 0 or rect.height == 0:
+            print(f"Skipping question {
+                  question_number} due to invalid dimensions")
+            continue
+
         # Crop the specified region and save as PNG
         scale = min(MAX_WIDTH / rect.width, MAX_HEIGHT / rect.height)
-        pix = page.get_pixmap(clip=rect, matrix=pymupdf.Matrix(scale, scale))
+        pix: pymupdf.Pixmap = page.get_pixmap(
+            clip=rect, matrix=pymupdf.Matrix(scale, scale))
         output_path = os.path.join(output_dir, f"{question_number}.png")
         pix.save(output_path)
 
         question_images.append({
             'question': question_number,
-            'image': output_path
+            'path': output_path,
+            'image': pix.tobytes('png', jpg_quality=100)
         })
 
         print(f"Saved {question_number} to {output_path}")
