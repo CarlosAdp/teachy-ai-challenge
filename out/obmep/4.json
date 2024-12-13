@@ -1,0 +1,14 @@
+{
+  "question_number": 4,
+  "question_type": "MultipleChoice",
+  "statement": "No quadriculado, a soma dos elementos de cada linha e de cada coluna são iguais. Qual é o valor de $a + b - c$?",
+  "support_text": "",
+  "alternatives": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+  ],
+  "images": []
+}

@@ -1,0 +1,16 @@
+{
+  "question_number": 22,
+  "question_type": "MultipleChoice",
+  "statement": "As informações apresentadas pelo gráfico também podem ser encontradas",
+  "support_text": "",
+  "alternatives": [
+    "No primeiro parágrafo do texto, apenas.",
+    "No segundo parágrafo do texto, apenas.",
+    "No terceiro parágrafo do texto e no mapa.",
+    "No primeiro e no segundo parágrafos do texto.",
+    "No segundo e no terceiro parágrafos do texto."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/8_1.png"
+  ]
+}

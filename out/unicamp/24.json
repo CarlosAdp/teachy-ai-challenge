@@ -1,0 +1,10 @@
+{
+  "question_number": 24,
+  "question_type": "OpenEnded",
+  "statement": "A figura a seguir apresenta um cenário em que se distinguem dois compartimentos de relevo na paisagem.",
+  "support_text": null,
+  "alternatives": [],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/10_1.png"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "question_number": 2,
+  "question_type": "MultipleChoice",
+  "statement": "Assinale a alternativa que contém a soma dos números correspondentes às afirmações verdadeiras.",
+  "support_text": "Um disco de raio $R$ com centro em $O$ pode girar livremente em um plano horizontal sem atrito em torno de um eixo fixo que passa por $O$. Uma mola de comprimento natural $L$ tem uma das suas extremidades articuladas a um ponto fixo na parede. Este ponto está localizado a uma distância $L$ do ponto $O$. A outra extremidade está articulada à borda do disco, em uma posição cujo movimento será analisado a seguir. Inicialmente, a mola se encontra em orientação perpendicular à parede e seu comprimento está reduzido a $x = L - R$, como mostra a figura. Considere que os pontos $A$ e $B$ são pontos fixos do espaço e que $R < L$. A seguir, são feitas algumas afirmações sobre esse sistema.",
+  "alternatives": [
+    "A ( ) 2.",
+    "B ( ) 3.",
+    "C ( ) 5.",
+    "D ( ) 8.",
+    "E ( ) 10."
+  ],
+  "images": []
+}

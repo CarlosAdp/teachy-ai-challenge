@@ -1,0 +1,13 @@
+{
+  "question_number": 6,
+  "question_type": "MultipleChoice",
+  "statement": "O excerto, retirado de uma revista de jornalismo científico, exemplifica um processo de formação de palavras na língua indígena kotiria e o compara com o uso da hashtag #sqn. É correto afirmar que essa comparação",
+  "support_text": "Você provavelmente já encontrou pelas redes sociais o famigerado #sqn, aquele jeito telegráfico de dizer que tal coisa é muito legal, “só que não”. Agora, imagine uma língua diferente do português que tenha incorporado um conceito parecido na própria estrutura das palavras, criando o que foi apelidado de “sufixo frustrativo”. Bom, é assim no kotiria, um idioma da família linguística tukano falado por indígenas do Alto Rio Negro, na fronteira do Brasil com a Colômbia. Para exprimir a função “frustrativa”, o kotiria usa um sufixo com a forma -ma. Você quer dizer que foi até um lugar sem conseguir o que queria indo até lá? Basta pegar o verbo ir, que é wa’a em kotiria, e acrescentar o sufixo: wa’ama, “ir em vão”. (Adaptado de: LOPES, R. J. L. A sofisticação das línguas indígenas. Superinteressante, 18/11/2021.)",
+  "alternatives": [
+    "cria uma falsa equivalência, pois os processos morfológicos em kotiria e em português são diferentes.",
+    "enfatiza a construção de efeitos de sentido parecidos por meio de processos distintos em kotiria e no português de internet.",
+    "permite compreender processos idênticos de formação de palavras nas línguas portuguesa e kotiria.",
+    "ressalta as diferenças no uso dos sufixos –ma, em kotiria, e #sqn, no português usado na internet."
+  ],
+  "images": []
+}

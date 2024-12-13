@@ -1,0 +1,13 @@
+{
+  "question_number": 3,
+  "question_type": "MultipleChoice",
+  "statement": "Examinando a relação do título com o corpo do excerto da reportagem de revista, o que representa a quebra do “silêncio dos hospícios”?",
+  "support_text": null,
+  "alternatives": [
+    "A morte esquecida de Stella do Patrocínio em uma instituição para reclusão de pessoas com transtornos mentais (ou assim consideradas).",
+    "As oficinas de arte que permitiram a Stella do Patrocínio tornar pública a sua voz e as histórias de mulheres encarceradas em instituições manicomiais.",
+    "O livro de Stella do Patrocínio que narra as histórias de mulheres vítimas de violência manicomial, abandonadas pelo Estado.",
+    "As falas gravadas de Stella do Patrocínio que expressam tanto o seu percurso individual quanto a história de outras mulheres."
+  ],
+  "images": []
+}

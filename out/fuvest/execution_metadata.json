@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 25.10685634613037,
+  "query_parser_time": 55.61066746711731,
+  "total_time": 80.71752381324768,
+  "query_layout_tokens": 30670,
+  "query_parser_tokens": 22084,
+  "total_tokens": 52754,
+  "query_layout_cost ($)": 0.076675,
+  "query_parser_cost ($)": 0.05521,
+  "total_cost ($)": 0.131885,
+  "exam": "fuvest.pdf",
+  "questions": 10
+}

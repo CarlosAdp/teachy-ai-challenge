@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 19.7199444770813,
+  "query_parser_time": 171.1484453678131,
+  "total_time": 190.8683898448944,
+  "query_layout_tokens": 25417,
+  "query_parser_tokens": 22764,
+  "total_tokens": 48181,
+  "query_layout_cost ($)": 0.0635425,
+  "query_parser_cost ($)": 0.05691,
+  "total_cost ($)": 0.1204525,
+  "exam": "ita.pdf",
+  "questions": 24
+}

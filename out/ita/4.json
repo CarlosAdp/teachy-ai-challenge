@@ -1,0 +1,16 @@
+{
+  "question_number": 4,
+  "question_type": "MultipleChoice",
+  "statement": "Assinale a alternativa que expressa $H$ em função das variáveis fornecidas.",
+  "support_text": "Um corpo de massa $m$ é lançado em um plano horizontal sem atrito, sob ação da gravidade $g$, e, ao entrar em um tubo, executa uma trajetória circular de raio $R$. A força exercida no corpo pelo tubo logo após o início do movimento circular tem intensidade $F$. Após meia volta, o corpo percorre uma trajetória retilínea em movimento uniforme até certa distância e depois sobe até certa altura $h$. O corpo sai do tubo em movimento vertical e imediatamente passa a se mover dentro de um fluido viscoso até atingir altura máxima $H$, conforme mostra a figura. Considere que o corpo se desloca pelo tubo sem atrito; que o diâmetro do tubo é desprezível em relação a $R$, $h$ e $H$; e que o módulo do trabalho realizado pela força de atrito viscoso até a massa atingir $H$ é equivalente a um terço da energia cinética da partícula, quando esta adentra o fluido.",
+  "alternatives": [
+    "A ( ) $\\frac{1}{3}\\left(h - 4R + \\frac{FR}{mg}\\right)$.",
+    "B ( ) $\\frac{1}{6}\\left(4h - 5R + \\frac{FR}{mg}\\right)$.",
+    "C ( ) $\\frac{1}{3}\\left(h - 5R + \\frac{FR}{mg}\\right)$.",
+    "D ( ) $\\frac{1}{6}\\left(h - 3R + \\frac{FR}{mg}\\right)$.",
+    "E ( ) $\\frac{1}{6}\\left(h - 2R + \\frac{FR}{mg}\\right)$."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/3_0.png"
+  ]
+}

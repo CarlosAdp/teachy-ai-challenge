@@ -1,0 +1,14 @@
+{
+  "question_number": 16,
+  "question_type": "MultipleChoice",
+  "statement": "A partir do excerto acima e dos conhecimentos acerca da política e da economia do Egito Faraônico e das antigas sociedades africanas, é correto afirmar:",
+  "support_text": "A escravidão era a base econômica do Antigo Egito, e a construção de pirâmides e outras obras públicas dependia do trabalho forçado. À medida que a sociedade egípcia se tornou politicamente mais complexa, pirâmides deixaram de funcionar como sepulcros e se tornaram templos conhecidos como 'zigurates'. Na sociedade egípcia, o faraó era o único proprietário de terras, e essa concentração econômica permitia o gasto em obras monumentais como pirâmides e templos.",
+  "alternatives": [
+    "A escravidão era a base econômica do Antigo Egito, e a construção de pirâmides e outras obras públicas dependia do trabalho forçado.",
+    "À medida que a sociedade egípcia se tornou politicamente mais complexa, pirâmides deixaram de funcionar como sepulcros e se tornaram templos conhecidos como 'zigurates'.",
+    "Na sociedade egípcia, o faraó era o único proprietário de terras, e essa concentração econômica permitia o gasto em obras monumentais como pirâmides e templos.",
+    "A aproximação política e econômica entre as dinastias egípcias do Reino Antigo e as Cidades-estados gregas trouxe as técnicas e o conhecimento arquitetônico necessário para a construção das pirâmides de Guiza.",
+    "A estrutura econômica egípcia permitia a contratação de trabalhadores assalariados para atuarem em construções públicas, como pirâmides e obras de irrigação."
+  ],
+  "images": []
+}

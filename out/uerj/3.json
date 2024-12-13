@@ -1,0 +1,15 @@
+{
+  "question_number": 3,
+  "question_type": "MultipleChoice",
+  "statement": "Essa crítica está associada à defesa da:",
+  "support_text": "No trecho citado do documentário, Ailton Krenak faz uma crítica às “tralhas tecnológicas” da humanidade.",
+  "alternatives": [
+    "integração dos povos tradicionais",
+    "paralisação das práticas científicas",
+    "restauração do planejamento urbano",
+    "interrupção da degradação ambiental"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/uerj/images/4_0.png"
+  ]
+}

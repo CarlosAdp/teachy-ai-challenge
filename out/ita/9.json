@@ -1,0 +1,16 @@
+{
+  "question_number": 9,
+  "question_type": "MultipleChoice",
+  "statement": "Com base nessas considerações, o sistema entre o interior e o exterior da membrana pode ser representado pelos seguintes elementos de circuitos elétricos:",
+  "support_text": "Em vários ramos da ciência e da engenharia, sistemas de interesse são modelados por circuitos elétricos a eles equivalentes. Na biologia, por exemplo, a membrana de um neurônio é modelada por elementos de circuitos elétricos.",
+  "alternatives": [
+    "A ( ) resistores e fontes de corrente conectados em série.",
+    "B ( ) fontes de corrente e capacitores conectados em paralelo.",
+    "C ( ) fontes de corrente e capacitores conectados em série.",
+    "D ( ) resistores e capacitores conectados em série.",
+    "E ( ) resistores e capacitores conectados em paralelo."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/5_5.png"
+  ]
+}

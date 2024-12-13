@@ -1,0 +1,14 @@
+{
+  "question_number": 16,
+  "question_type": "MultipleChoice",
+  "statement": "Qual é o número do assento que Pedro deve comprar?",
+  "support_text": "Ana comprou o ingresso com número de assento 100 em um teatro com assentos numerados de 1 a 120. A figura mostra a numeração de alguns assentos, com poltronas pares de um lado e ímpares do outro, em ordem crescente a partir do corredor. Os demais assentos seguem o mesmo padrão de numeração.",
+  "alternatives": [
+    "102",
+    "99",
+    "112",
+    "101",
+    "94"
+  ],
+  "images": []
+}

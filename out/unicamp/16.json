@@ -1,0 +1,19 @@
+{
+  "question_number": 16,
+  "question_type": "MultipleChoice",
+  "statement": "As figuras anteriores trazem a representação esquemática de diferentes sistemas catalíticos para a reação de transformação de",
+  "support_text": "Com o objetivo de mitigar problemas ambientais e encontrar alternativas viáveis para a produção de combustíveis, muitas propostas têm sido sugeridas. As figuras a seguir mostram rotas de transformação que possibilitariam alcançar o objetivo citado.",
+  "alternatives": [
+    "dióxido de carbono em etanol, sendo que A, B, C e D representam, respectivamente: biocatálise, catálise homogênea, catálise heterogênea e fotocatálise.",
+    "dióxido de carbono em etanol, sendo que A, B, C e D representam, respectivamente: biocatálise, catálise homogênea, fotocatálise e catálise heterogênea.",
+    "metanol em etanol, sendo que A, B, C e D representam, respectivamente: catálise homogênea, fotocatálise, catálise heterogênea e biocatálise.",
+    "metanol em etanol, sendo que A, B, C e D representam, respectivamente: catálise homogênea, biocatálise, fotocatálise e catálise heterogênea."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/8_0.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/8_1.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/8_2.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/8_3.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/8_4.png"
+  ]
+}

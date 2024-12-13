@@ -1,0 +1,14 @@
+{
+  "question_number": 15,
+  "question_type": "MultipleChoice",
+  "statement": "Leia atentamente os versos destacados de “Canto ao homem do povo Charlie Chaplin”, de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.",
+  "support_text": "E falam as flores que tanto amas quando pisadas,\n  falam os tocos de vela, que comes na extrema penúria, falam a mesa, os botões,\n  os instrumentos do ofício e as mil coisas aparentemente fechadas,\n  cada troço, cada objeto do sótão, quanto mais obscuros mais falam.",
+  "alternatives": [
+    "A ( ) a linguagem é pouco elaborada, pois visa a descrever materialmente a realidade, desprovida de qualidades estéticas.",
+    "B ( ) são versos livres, de ritmo fluido, nos quais a elaboração da linguagem busca tirar os objetos cotidianos da banalidade.",
+    "C ( ) a dimensão estética do cotidiano é apagada pela fama da pessoa a quem o poema é dedicado, elogiada nos versos.",
+    "D ( ) a métrica desses versos é rígida, para imitar a forma geométrica dos objetos descritos.",
+    "E ( ) o uso das rimas raras e do ritmo afastado da linguagem comum transfigura a realidade material em uma dimensão estética rebuscada, de difícil acesso para o leitor."
+  ],
+  "images": []
+}

@@ -1,0 +1,14 @@
+{
+  "question_number": 12,
+  "question_type": "MultipleChoice",
+  "statement": "A equação da tangente interior comum às circunferências é:",
+  "support_text": "Considere duas circunferências no plano cartesiano $Oxy$, uma de raio igual a 6 e centro no ponto $(6,6)$ e outra de centro na origem e tangente exteriormente à primeira.",
+  "alternatives": [
+    "$y + 2x - 3\\left(\\sqrt{2} - 2\\right) = 0$",
+    "$2y + x + 6\\left(\\sqrt{2} - 2\\right) = 0$",
+    "$y + x + 6\\left(\\sqrt{2} - 2\\right) = 0$",
+    "$y + x - 6\\sqrt{2} - 2 = 0$",
+    "$2y + x - 6\\left(\\sqrt{2} - 2\\right) = 0$"
+  ],
+  "images": []
+}

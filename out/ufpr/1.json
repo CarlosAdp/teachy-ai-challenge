@@ -1,0 +1,14 @@
+{
+  "question_number": 1,
+  "question_type": "MultipleChoice",
+  "statement": "A cor da pele em humanos é uma característica quantitativa, constituindo um traço adaptativo, cuja variação possui relação com o território ocupado e com o tempo em que isso se deu. Considerando as informações apresentadas, assinale a alternativa correta.",
+  "support_text": "",
+  "alternatives": [
+    "Considerando a distribuição de uma característica quantitativa em uma população, a maioria dos indivíduos irá se concentrar nos extremos de uma curva normal e poucos indivíduos irão se concentrar no centro da curva.",
+    "Fenótipos quantitativos variam muito em uma população devido à interação de recessividade e dominância entre um par de alelos de um gene que controla a característica.",
+    "A grande variação fenotípica das características quantitativas se deve em parte a uma base genética poligênica.",
+    "Em uma população, as características qualitativas em comparação às quantitativas são as mais frequentes, já que as características podem ser facilmente distinguidas em classes, como por exemplo a estatura dos indivíduos.",
+    "As características quantitativas possuem padrões de herança definidos, que podem ser obtidos a partir de cruzamentos mendelianos."
+  ],
+  "images": []
+}

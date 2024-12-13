@@ -1,0 +1,14 @@
+{
+  "question_number": 7,
+  "question_type": "MultipleChoice",
+  "statement": "Sobre as afirmações I, II e III pode-se afirmar que",
+  "support_text": "Em eventos esportivos, é comum que os espectadores realizem a coreografia da “ola”. Os participantes erguem seus braços e os abaixam logo em seguida, em fileiras sucessivas, criando o efeito visual de uma onda. Os espectadores gritam juntos “olá” seguindo a propagação da onda.",
+  "alternatives": [
+    "A ( ) apenas I e II estão corretas.",
+    "B ( ) apenas I está correta.",
+    "C ( ) apenas II está correta.",
+    "D ( ) apenas III está correta.",
+    "E ( ) as três estão incorretas."
+  ],
+  "images": []
+}

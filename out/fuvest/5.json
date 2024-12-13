@@ -1,0 +1,16 @@
+{
+  "question_number": 5,
+  "question_type": "MultipleChoice",
+  "statement": "Com base no texto e nos seus conhecimentos, assinale a alternativa correta.",
+  "support_text": "De acordo com a professora Patricia Nicolucci, da USP, há dois tipos de radiação: a ionizante e a não ionizante. Mas elas possuem características diferentes de interação com o corpo humano. '[Alguns tipos de radiação] são consideradas não ionizantes porque a energia não é suficiente para liberar elétrons quando interagem com o tecido do corpo humano ou qualquer outro material. Já a radiação ionizante, utilizada em medicina nuclear e em radioterapia, tem uma energia maior, o que lhe confere essa característica de tirar elétrons dos átomos da matéria com a qual interage'.”",
+  "alternatives": [
+    "A) A luz de lâmpadas brancas, as micro-ondas e o laser vermelho podem ser considerados exemplos de radiação não ionizante.",
+    "B) Radiação eletromagnética de comprimentos de onda maiores tem um efeito ionizante mais acentuado do que a de comprimentos de onda menores.",
+    "C) Luz visível não pode ser considerada uma forma de radiação, uma vez que tem efeitos desprezíveis sobre tecidos do corpo humano.",
+    "D) O efeito fotoelétrico é um exemplo de interação de radiação não ionizante com a matéria.",
+    "E) A liberação de elétrons de moléculas de tecidos do corpo humano por radiações ionizantes não afeta as propriedades químicas dessas moléculas."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/fuvest/images/1_0.png"
+  ]
+}

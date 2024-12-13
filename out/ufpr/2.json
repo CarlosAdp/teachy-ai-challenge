@@ -1,0 +1,14 @@
+{
+  "question_number": 2,
+  "question_type": "MultipleChoice",
+  "statement": "O gene da calcitonina codifica tanto o hormônio calcitonina quanto o peptídeo relacionado ao gene calcitonina (CGRP). O CGRP atua como neurotransmissor em tecidos do sistema nervoso, enquanto a calcitonina regula os níveis de cálcio e fosfato sanguíneos por ação sobre os ossos. A partir do processamento do transcrito primário do gene da calcitonina, dois mensageiros maduros que se diferem pela presença de um exon são formados, a partir dos quais serão produzidos a calcitonina e o CGRP. Considerando as informações apresentadas, assinale a alternativa correta.",
+  "support_text": "",
+  "alternatives": [
+    "A informação genética é armazenada nos aminoácidos que compõem o DNA, sendo traduzida em RNA mensageiro e transcrita em proteínas – fluxo esse que determina o fenótipo dos indivíduos.",
+    "A replicação do DNA é o processo responsável pela expressão dos genes, sendo que esse processo se dá por meio da síntese de segmentos de DNA a partir de sequências específicas.",
+    "A diversidade de tipos e funções das células que formam os tecidos do corpo humano se dá pelos diferentes códigos genéticos que cada tipo possui.",
+    "O processo que sintetiza o hormônio calcitonina e o peptídeo relacionado ao gene calcitonina (CGRP) é chamado de transcrição, no qual os RNAs transportadores são responsáveis por levar o mensageiro para o citoplasma da célula onde as proteínas são sintetizadas.",
+    "A produção do hormônio calcitonina e do peptídeo relacionado ao gene calcitonina (CGRP) a partir de um mesmo gene se deve ao mecanismo de splicing alternativo."
+  ],
+  "images": []
+}

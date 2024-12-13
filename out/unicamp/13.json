@@ -1,0 +1,15 @@
+{
+  "question_number": 13,
+  "question_type": "MultipleChoice",
+  "statement": "De acordo com essas informações, pode-se inferir que o reator é capaz de degradar",
+  "support_text": "Um artigo científico relata a construção e a eficiência de um reator fotocatalítico de fluxo contínuo para a degradação de hormônios presentes em águas tratadas para consumo humano. Num trecho desse estudo, os autores afirmam: “é interessante notar que 80% de estrogênio foram removidos numa alimentação a 200 ng/L, 25 mW/cm² e 300 L/(m² h), enquanto que as remoções de progesterona e testosterona ficaram em 44% e 33%, respectivamente”.",
+  "alternatives": [
+    "dois hormônios femininos e um masculino, sendo que degrada melhor um feminino.",
+    "dois hormônios femininos e um masculino, sendo que degrada melhor o masculino.",
+    "somente hormônios masculinos, sendo que degrada melhor o estrogênio.",
+    "somente hormônios femininos, sendo que degrada melhor o estrogênio."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/7_0.png"
+  ]
+}

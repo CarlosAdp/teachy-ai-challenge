@@ -1,0 +1,14 @@
+{
+  "question_number": 21,
+  "question_type": "MultipleChoice",
+  "statement": "Leia atentamente os versos destacados de “Cantiga de enganar”, de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.",
+  "support_text": "Meu bem, assim acordados,\nassim lúcidos, severos,\nou assim abandonados,\ndeixando-nos à deriva\nlevar na palma do tempo\n— mas o tempo não existe —,\nsejamos como se fôramos\nnum mundo que fosse: o Mundo.",
+  "alternatives": [
+    "A ( ) os versos confirmam, sem sombra de dúvidas, que a lucidez não só é impossível neste mundo, como também a realidade é enlouquecedora.",
+    "B ( ) lidos em conjunto com o título do poema, os versos exprimem certa ironia em relação à condição humana na realidade do mundo.",
+    "C ( ) os versos são típicos da indiferença do eu lírico, característica da poética de Drummond frente à inevitabilidade da morte em um mundo sombrio e apocalíptico.",
+    "D ( ) no contexto do poema, os versos exprimem a negação da condição de abandono do ser humano.",
+    "E ( ) no contexto da obra, os versos exemplificam o tema da busca de riqueza material, segundo o preceito do carpe diem."
+  ],
+  "images": []
+}

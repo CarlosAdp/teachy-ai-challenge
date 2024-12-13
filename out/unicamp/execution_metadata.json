@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 32.06727743148804,
+  "query_parser_time": 60.47677445411682,
+  "total_time": 92.54405188560486,
+  "query_layout_tokens": 40883,
+  "query_parser_tokens": 21278,
+  "total_tokens": 62161,
+  "query_layout_cost ($)": 0.1022075,
+  "query_parser_cost ($)": 0.053195,
+  "total_cost ($)": 0.1554025,
+  "exam": "unicamp.pdf",
+  "questions": 11
+}

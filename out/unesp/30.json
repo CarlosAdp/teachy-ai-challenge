@@ -1,0 +1,16 @@
+{
+  "question_number": 30,
+  "question_type": "MultipleChoice",
+  "statement": "Based on the comic strip, one can say that happiness",
+  "support_text": "",
+  "alternatives": [
+    "Should not be a transitory state of mind.",
+    "Should be strongly sought.",
+    "Should not be compulsory.",
+    "Might be unbearable.",
+    "Comes and goes naturally in life."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/10_0.png"
+  ]
+}

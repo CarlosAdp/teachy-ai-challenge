@@ -1,0 +1,14 @@
+{
+  "question_number": 8,
+  "question_type": "MultipleChoice",
+  "statement": "O intervalo que contém os valores de $x$ tais que: $0,09^{(4+x)}\\left[\\left(\\frac{1}{\\sqrt{0,3}}\\right)^{x^2 - 1}\\right]^2 < x^2 - (x+1)(x-1)$ é:",
+  "support_text": "",
+  "alternatives": [
+    "$(-\\infty, 4) \\cup (8, \\infty)$",
+    "$(-2, 4)$",
+    "$(4, 8)$",
+    "$(-\\infty, \\infty)$",
+    "$(-\\infty, -2) \\cup (4, \\infty)$"
+  ],
+  "images": []
+}

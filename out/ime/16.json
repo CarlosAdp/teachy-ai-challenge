@@ -1,0 +1,14 @@
+{
+  "question_number": 16,
+  "question_type": "MultipleChoice",
+  "statement": "Se a energia interna que permanece após o projétil atingir a parede é justamente a mínima para que ocorra a fusão total do chumbo, a velocidade do projétil imediatamente antes da colisão, em m/s, é:",
+  "support_text": "Um projétil de chumbo está a uma temperatura de $175 \\, ^\\circ\\mathrm{C}$ quando atinge uma parede e nela se aloja. Considere que 25% da energia cinética do projétil imediatamente antes da colisão permaneça nele como energia interna.\n\n**Dados:**\n- calor específico do chumbo: 125 J/(kg·°C);\n- temperatura de fusão do chumbo: 327 °C;\n- calor latente de fusão do chumbo: 26.000 J/kg.",
+  "alternatives": [
+    "30",
+    "150",
+    "400",
+    "450",
+    "600"
+  ],
+  "images": []
+}

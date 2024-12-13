@@ -1,0 +1,14 @@
+{
+  "question_number": 11,
+  "question_type": "MultipleChoice",
+  "statement": "Das afirmações I a IV, acima destacadas, estão corretas",
+  "support_text": "Considere um arranjo experimental, representado na figura, em que um ímã pode se movimentar ao longo das retas $AB$ ou $A'B'$, sempre com velocidade constante $(v \\ll c)$. Uma espira retangular de auto-indutância desprezível é posicionada perpendicularmente a $AB$. Pelo centro da espira, o ponto $P$, passam as retas $AB$ e $A'B'$. A corrente elétrica na espira, observada desde a perspectiva de um observador no ponto $A$, é positiva, por convenção, se estiver no sentido horário.",
+  "alternatives": [
+    "A ( ) apenas I e III.",
+    "B ( ) apenas II, III.",
+    "C ( ) todas.",
+    "D ( ) apenas III.",
+    "E ( ) apenas I."
+  ],
+  "images": []
+}

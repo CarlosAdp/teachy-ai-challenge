@@ -1,0 +1,13 @@
+{
+  "query_layout_time": 53.86417746543884,
+  "query_parser_time": 136.49967741966248,
+  "total_time": 190.36385488510132,
+  "query_layout_tokens": 25034,
+  "query_parser_tokens": 27674,
+  "total_tokens": 52708,
+  "query_layout_cost": 0.062585,
+  "query_parser_cost": 0.069185,
+  "total_cost": 0.13177,
+  "exam": "ime.pdf",
+  "questions": 22
+}

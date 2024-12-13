@@ -1,0 +1,14 @@
+{
+  "question_number": 7,
+  "question_type": "MultipleChoice",
+  "statement": "Vinte e quatro retas são desenhadas no plano de modo que cada reta seja paralela a exatamente outras três. Além disso, não há três retas que se cruzem em um mesmo ponto. Qual é o número total de pontos de interseção entre essas retas?",
+  "support_text": "",
+  "alternatives": [
+    "276",
+    "120",
+    "200",
+    "240",
+    "169"
+  ],
+  "images": []
+}

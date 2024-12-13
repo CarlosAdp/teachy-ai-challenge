@@ -1,0 +1,13 @@
+{
+  "question_number": 1,
+  "question_type": "MultipleChoice",
+  "statement": "Indique a alternativa que apresenta palavras ou termos do Texto 2 diretamente relacionados a elementos representados na charge (Texto 1).",
+  "support_text": "Cracolândia vive 30 anos de eterno retorno\nRepressão à droga não faz mais do que dispersar usuários; especialistas cobram articulação de políticas\nEla surgiu na Santa Efigênia, nos cruzamentos da rua dos Gusmões com as pequenas ruas dos Protestantes e do Triunfo, logo atrás da Estação Ferroviária da Luz, no centro de São Paulo. E há quase 30 anos, migra de um quartel para outro, em modo constante, se esparramando pelos bairros vizinhos. A itinerância da maior cena aberta de uso de crack e outras drogas do país, batizada de cracolândia nos anos 1990, é fruto ora de um jogo de esconde-esconde, a partir do mando do crime organizado, ora do empurra-empurra das operações policiais que incidem sobre ela, onde quer que esteja. (Adaptado de MENA, Fernanda, Cracolândia vive 30 anos de eterno retorno. Folha de São Paulo, 4 jun. 2022, p. B4.)",
+  "alternatives": [
+    "“articulação de políticas” e “esconde-esconde”",
+    "“empurra-empurra” e “eterno retorno”"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unicamp/images/3_0.png"
+  ]
+}

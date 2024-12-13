@@ -1,0 +1,16 @@
+{
+  "question_number": 15,
+  "question_type": "MultipleChoice",
+  "statement": "Ana, Beatriz e Carlos escolhem lugares para se sentar em uma mesa hexagonal regular. Cada lugar corresponde a um dos lados do hexágono, que estão numerados de 1 a 6, conforme a figura ao lado. Os lados 1 e 4 são considerados lados opostos na mesa, assim como 2 e 5, e 3 e 6. De quantas formas diferentes Ana, Beatriz e Carlos podem escolher os lugares numerados de modo que nenhum deles fique sentado ao lado oposto do outro?",
+  "support_text": "",
+  "alternatives": [
+    "48.",
+    "36.",
+    "24.",
+    "12.",
+    "8."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ufpr/images/5_2.png"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "question_number": 10,
+  "question_type": "MultipleChoice",
+  "statement": "A probabilidade de se obter maior pontuação com o dodecaedro do que com os dois dados cúbicos somados é:",
+  "support_text": "Sejam dois dados cúbicos (com faces numeradas de 1 a 6) e um dado na forma de dodecaedro (com faces numeradas de 1 a 12). Em cada tipo de dado, todas as faces possuem mesma probabilidade de ocorrência.",
+  "alternatives": [
+    "\\frac{2}{3}",
+    "\\frac{1}{6}",
+    "\\frac{7}{36}",
+    "\\frac{5}{12}",
+    "\\frac{3}{16}"
+  ],
+  "images": []
+}

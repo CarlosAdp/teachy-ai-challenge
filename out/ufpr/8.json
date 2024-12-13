@@ -1,0 +1,14 @@
+{
+  "question_number": 8,
+  "question_type": "MultipleChoice",
+  "statement": "A respeito de alternativas disponíveis ao uso de agrotóxicos, é correto afirmar:",
+  "support_text": "O uso em larga escala de agrotóxicos no cultivo de alimentos tem consequências negativas para o ambiente e para a saúde dos consumidores. O Brasil é um dos países com maior consumo de agrotóxicos e a exposição aos agrotóxicos pode causar uma série de doenças. (INCA – Instituto Nacional do Câncer, Ministério da Saúde. Disponível em: https://www.inca.gov.br/exposicao-no-trabalho-e-no-ambiente/agrotoxicos. Adaptado.)",
+  "alternatives": [
+    "O controle biológico de pragas propõe conter a proliferação de pragas utilizando seus inimigos naturais, como predadores e parasitas.",
+    "As agroflorestas são constituídas por monoculturas selecionadas e utilizam apenas de agrotóxicos liberados pela legislação nacional.",
+    "O controle biológico de pragas prevê a utilização apenas de agrotóxicos que não apresentam risco à saúde humana.",
+    "Nas agroflorestas, são utilizados agrotóxicos apenas para pragas resistentes, em quantidades mínimas e apenas uma vez ao ano.",
+    "No controle biológico de pragas, são utilizadas sementes geneticamente modificadas resistentes a herbicidas."
+  ],
+  "images": []
+}

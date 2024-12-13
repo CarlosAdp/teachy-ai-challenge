@@ -1,0 +1,16 @@
+{
+  "question_number": 12,
+  "question_type": "MultipleChoice",
+  "statement": "Na figura ao lado, estão representadas quatro circunferências de raio $r = 1\\, cm$ que são tangentes nos pontos $A, B, C$ e $D$. Assinale a alternativa que corresponde ao valor, em $cm^2$, da área hachurada em cinza.",
+  "support_text": "",
+  "alternatives": [
+    "$\\pi - 1$.",
+    "$\\pi - 2$.",
+    "$2 - \\frac{\\pi}{2}$.",
+    "$4 - \\pi$.",
+    "$4 - \\frac{\\pi}{2}$."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ufpr/images/5_0.png"
+  ]
+}

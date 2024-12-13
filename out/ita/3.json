@@ -1,0 +1,14 @@
+{
+  "question_number": 3,
+  "question_type": "MultipleChoice",
+  "statement": "Determine o módulo do deslocamento $\\Delta x$ do êmbolo, com relação ao fundo do recipiente, considerando que a transformação do gás é isentrópica.",
+  "support_text": "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica $P_{atm}$. Esse recipiente contém um volume inicial $V_i$ de um gás monoatômico ideal em equilíbrio e tem um êmbolo de seção transversal de área $A$ e de massa $m$. Para monitorar a aceleração do sistema, a plataforma foi suspensa por um dinamômetro, como ilustrado na figura. Por causa de uma ação de força externa vertical, o êmbolo atinge uma nova posição de equilíbrio. Nessa posição a leitura do dinamômetro indica que a aceleração do sistema é de $1/10$ de $g$ para cima.",
+  "alternatives": [
+    "A ( ) $\\Delta x = \\frac{3V_i}{2A}\\left(\\frac{11mg}{50P_{atm}A+55mg}\\right)$.",
+    "B ( ) $\\Delta x = \\frac{V_i}{A}\\left[1-\\left(\\frac{AP_{atm}+mg}{AP_{atm}+1mg}\\right)^{\\frac{5}{3}}\\right]$.",
+    "C ( ) $\\Delta x = \\frac{V_i}{A}\\left(\\frac{01mg}{AP_{atm}+1mg}\\right)$.",
+    "D ( ) $\\Delta x = \\frac{V_i}{A}\\left[1-\\left(\\frac{AP_{atm}+mg}{AP_{atm}+1mg}\\right)^{\\frac{3}{5}}\\right]$.",
+    "E ( ) $\\Delta x = \\frac{V_i}{A}\\left[1-\\left(\\frac{AP_{atm}+mg}{AP_{atm}+1mg}\\right)\\right]$."
+  ],
+  "images": []
+}

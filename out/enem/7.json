@@ -1,0 +1,16 @@
+{
+  "question_number": 7,
+  "question_type": "MultipleChoice",
+  "statement": "Essa campanha publicitária do Ministério da Saúde visa",
+  "support_text": "",
+  "alternatives": [
+    "divulgar um conjunto de benefícios proporcionados pela amamentação.",
+    "apresentar tratamentos para infecções respiratórias em bebês.",
+    "defender o direito das mulheres de amamentar em público.",
+    "orientar sobre os exercícios para uma boa amamentação.",
+    "informar sobre o aumento de anticorpos nas mães."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/enem/images/6_0.png"
+  ]
+}

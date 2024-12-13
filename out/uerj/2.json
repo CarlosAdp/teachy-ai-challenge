@@ -1,0 +1,15 @@
+{
+  "question_number": 2,
+  "question_type": "MultipleChoice",
+  "statement": "Se a taxa de crescimento de 2012 a 2013 permanecesse a mesma observada de 2011 a 2012, a quantidade de famílias a mais beneficiadas pelo programa em 2013 seria de:",
+  "support_text": "No período de 2011 a 2014, o programa Bolsa Verde remunerou famílias assentadas na região da Mata Atlântica que desenvolvessem atividades de proteção e restauração de áreas de vegetação nativa.",
+  "alternatives": [
+    "6000",
+    "8000",
+    "12000",
+    "16000"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/uerj/images/1_0.png"
+  ]
+}

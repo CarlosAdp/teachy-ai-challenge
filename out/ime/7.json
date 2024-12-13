@@ -1,0 +1,14 @@
+{
+  "question_number": 7,
+  "question_type": "MultipleChoice",
+  "statement": "Se $n$ é o traço da matriz, a soma dos algarismos de $n$ é:",
+  "support_text": "Seja uma matriz com $100$ linhas e $100$ colunas. Os elementos da matriz formam uma progressão aritmética (PA) de razão $5$. O primeiro termo da progressão é o elemento $a_{1,1}$ e tem seu valor igual a $10$. Para formar essa PA, percorrem-se os elementos de uma mesma linha e concluída uma linha, passa-se para a próxima.",
+  "alternatives": [
+    "10",
+    "19",
+    "23",
+    "28",
+    "32"
+  ],
+  "images": []
+}

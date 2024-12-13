@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 15.367065906524658,
+  "query_parser_time": 89.3527500629425,
+  "total_time": 104.71981596946716,
+  "query_layout_tokens": 27241,
+  "query_parser_tokens": 15032,
+  "total_tokens": 42273,
+  "query_layout_cost ($)": 0.0681025,
+  "query_parser_cost ($)": 0.03758,
+  "total_cost ($)": 0.1056825,
+  "exam": "ufpr.pdf",
+  "questions": 16
+}

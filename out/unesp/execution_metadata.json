@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 29.31423854827881,
+  "query_parser_time": 68.43439626693726,
+  "total_time": 97.74863481521606,
+  "query_layout_tokens": 31407,
+  "query_parser_tokens": 23804,
+  "total_tokens": 55211,
+  "query_layout_cost ($)": 0.0785175,
+  "query_parser_cost ($)": 0.05951,
+  "total_cost ($)": 0.1380275,
+  "exam": "unesp.pdf",
+  "questions": 23
+}

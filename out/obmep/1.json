@@ -1,0 +1,14 @@
+{
+  "question_number": 1,
+  "question_type": "MultipleChoice",
+  "statement": "A figura mostra a localização de dois números x e y na reta numérica. Qual alternativa apresenta o menor número?",
+  "support_text": "",
+  "alternatives": [
+    "$x^2$",
+    "$x + y$",
+    "$xy$",
+    "$x/y$",
+    "$x$"
+  ],
+  "images": []
+}

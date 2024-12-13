@@ -1,0 +1,10 @@
+{
+  "question_number": 1,
+  "question_type": "OpenEnded",
+  "statement": "Descreva a tirinha do cartunista Silva João, publicada em sua conta do Instagram em 26.09.2019.",
+  "support_text": "",
+  "alternatives": [],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/5_0.png"
+  ]
+}

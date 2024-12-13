@@ -1,0 +1,14 @@
+{
+  "question_number": 8,
+  "question_type": "MultipleChoice",
+  "statement": "Com base no mapa, a diversidade de aves mostra-se",
+  "support_text": "O mapa mostra a variação do número de espécies de aves no território brasileiro, com as linhas indicando os limites dos biomas.",
+  "alternatives": [
+    "A) mais alta nas regiões onde predominam florestas e mais baixa nas regiões onde predomina vegetação mais aberta.",
+    "B) igualmente alta nas regiões tropicais e mais baixa nas regiões subtropicais.",
+    "C) igualmente baixa nas regiões mais orientais e mais alta nas regiões ocidentais."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/fuvest/images/3_3.png"
+  ]
+}

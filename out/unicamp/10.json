@@ -1,0 +1,13 @@
+{
+  "question_number": 10,
+  "question_type": "MultipleChoice",
+  "statement": "Levando em conta os textos 1 e 2, assinale a alternativa correta.",
+  "support_text": "Texto 1: \n“Desde que, naufragado, se salvara, o marinheiro vivia ali... Como ele não tinha meio de voltar à pátria, e cada vez que se lembrava dela sofria, pôs-se a sonhar uma pátria que nunca tivesse tido: pôs-se a fazer ter sido sua uma outra pátria, uma outra espécie de país com outras espécies de paisagens, e outra gente, e outro feitio de passarem pelas ruas e de se debruçarem das janelas (…)” \n(PESSOA, Fernando. O Marinheiro. Campinas: Editora da UNICAMP, p. 59, 2020.)\n\nTexto 2:\n“Na capacidade para amoldar-se a todos os meios, em prejuízo, muitas vezes de suas próprias características raciais e culturais, revelou o português melhores aptidões de colonizador do que os demais povos (…). Os portugueses precisaram anular-se durante o longo tempo para afinal vencerem. Como o grão de trigo dos Evangelhos, o qual há de primeiramente morrer para depois crescer e dar muitos frutos.” \n(HOLANDA, Sérgio Buarque de. Raízes do Brasil. São Paulo: Companhia das Letras, p. 224, 2016.)",
+  "alternatives": [
+    "O marinheiro e o colonizador português são capazes de criar valores e paisagens, reinventando-se, a ponto de forjarem outra realidade e outra memória do passado.",
+    "O marinheiro e o colonizador português constroem novos mundos e valores no além-mar, mas são incapazes de anular sua identidade original.",
+    "O marinheiro e o colonizador português, apesar do esforço de construção cultural, limitam-se a transpor integralmente o que aprenderam no passado para as configurações do futuro.",
+    "O marinheiro e o colonizador português acabam anulando suas identidades originais, representando, assim, figuras inquestionáveis de niilismo."
+  ],
+  "images": []
+}

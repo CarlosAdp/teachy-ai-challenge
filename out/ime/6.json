@@ -1,0 +1,14 @@
+{
+  "question_number": 6,
+  "question_type": "MultipleChoice",
+  "statement": "O conjunto solução $S$ contendo os valores de $a$, $b$ e $c$ para que a matriz seja ortogonal é:",
+  "support_text": "Uma matriz quadrada $M$ é dita ortogonal se $M \\times M^T = I$, em que $I$ é a matriz identidade.",
+  "alternatives": [
+    "S=\\{a=\\frac{1}{2}; b=-\\frac{\\sqrt{3}}{2}; c=1\\}",
+    "S=\\{a=\\frac{1}{2}; b=\\frac{\\sqrt{3}}{2}; c=1\\}",
+    "S=\\{a=\\frac{1}{2}; b=\\frac{\\sqrt{3}}{2}; c=-1\\}",
+    "S=\\{a=-\\frac{1}{2}; b=\\frac{\\sqrt{3}}{2}; c=-1\\}",
+    "S=\\emptyset"
+  ],
+  "images": []
+}

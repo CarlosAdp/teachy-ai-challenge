@@ -1,0 +1,14 @@
+{
+  "question_number": 16,
+  "question_type": "MultipleChoice",
+  "statement": "Leia o trecho destacado do conto “Tempo de camisinha”, de Mário de Andrade, e, em seguida, assinale a alternativa incorreta.",
+  "support_text": "“Estavam uns pescadores ali mesmo na esquina, conversando, e me meti no meio deles, sempre era uma proteção. E todos eles eram casados, tinham filhos, não se amolavam proletariamente com os filhos, mas proletariamente davam muita importância pra o filhinho de ‘seu dotô’ meu pai, que nem era doutor, graças a Deus.”",
+  "alternatives": [
+    "A ( ) os pescadores “não se amolavam proletariamente” com os próprios filhos porque a sua obrigação proletária era apenas garantir o sustento das próprias famílias.",
+    "B ( ) o uso de “seu dotô” é justificado para expressar a fala supostamente informal dos pescadores para atribuir prestígio ao pai do narrador.",
+    "C ( ) o trecho destacado sugere uma posição específica do narrador, distante tanto dos “proletários” quanto dos “doutores” retratados.",
+    "D ( ) os pescadores davam muita importância ao “filho do dotô” porque o consideravam mais vulnerável do que os seus próprios filhos.",
+    "E ( ) não há, no uso da expressão “seu dotô”, nenhuma menção à diferença de classes sociais."
+  ],
+  "images": []
+}

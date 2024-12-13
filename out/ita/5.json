@@ -1,0 +1,14 @@
+{
+  "question_number": 5,
+  "question_type": "MultipleChoice",
+  "statement": "Considerando-se que o sistema parta do repouso, a distância percorrida pelo recipiente após um intervalo de 3,0 s é",
+  "support_text": "Considere um recipiente tubular fino, com área transversal constante, que contém dois líquidos imiscíveis $A$ e $B$. As hastes verticais deste recipiente distam 20 cm uma da outra ($L = 20$ cm). Quando o recipiente está em repouso, o líquido $A$ atinge uma altura de 80 cm em relação à linha de separação dos líquidos. Quando o recipiente é colocado em movimento retilíneo uniformemente variado, a altura de $A$ com relação à linha de separação dos líquidos passa a ser $H = 76$ cm, conforme mostra a figura.",
+  "alternatives": [
+    "A ( ) 2,4 m.",
+    "B ( ) 4,6 m.",
+    "C ( ) 9,0 m.",
+    "D ( ) $1,3 \\times 10$ m.",
+    "E ( ) $1,8 \\times 10$ m."
+  ],
+  "images": []
+}

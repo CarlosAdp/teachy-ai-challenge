@@ -1,0 +1,16 @@
+{
+  "question_number": 19,
+  "question_type": "MultipleChoice",
+  "statement": "A resistência da espira, em $\\mu\\Omega$, é:",
+  "support_text": "O sistema da figura é montado com o objetivo de determinar a resistência elétrica de uma espira condutora de área $A$. O centro dessa espira descreve uma trajetória circular de raio $R$ e período $t$, à velocidade angular constante, ao redor de um fio também condutor com uma corrente elétrica contínua $I$. A corrente elétrica na espira é medida e seu valor oscila harmonicamente entre $+i$ e $-i$.\n\n**Dados:**\n- área da espira: $A = 1 \\, \\mathrm{cm}^2$;\n- raio da trajetória do centro da espira: $R = 10 \\, \\mathrm{cm}$;\n- período da trajetória circular do centro da espira: $t = 2 \\, \\mathrm{s}$;\n- corrente elétrica contínua do fio condutor: $I = 50 \\, \\mathrm{A}$;\n- amplitude da corrente elétrica induzida medida na espira: $i = 1 \\, \\mathrm{mA}$;\n- permeabilidade magnética no vácuo: $\\mu = 4\\pi \\cdot 10^{-7} \\, \\mathrm{T \\cdot m/A}$.\n\n**Observações:** sistema segue a orientação dos eixos xyz desenhados na figura; fio condutor é paralelo ao eixo $z$; o eixo da espira está sempre paralelo ao eixo $y$; o plano da espira é sempre paralelo ao plano $xz$; plano da trajetória do centro da espira é paralelo ao plano $xy$; considere que as linhas de campo magnético que atravessam a espira estejam paralelas; para toda frequência $f$, considere $\\frac{\\Delta \\sen(2\\pi ft)}{\\Delta t} = 2\\pi f \\cos(2\\pi ft)$",
+  "alternatives": [
+    "20\\pi",
+    "6\\pi",
+    "4\\pi",
+    "5\\pi",
+    "10\\pi"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ime/images/8_0.png"
+  ]
+}

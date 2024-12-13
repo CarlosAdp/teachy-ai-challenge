@@ -1,0 +1,16 @@
+{
+  "question_number": 18,
+  "question_type": "MultipleChoice",
+  "statement": "A condição necessária e suficiente para que os raios continuem viajando em fase após o raio de baixo deixar a película é:",
+  "support_text": "A figura mostra dois raios paralelos de luz que viajam em fase no vácuo até que um deles encontra uma película.\n\n**Dados:**\n- espessura da película: $d$;\n- índice de refração da película: $n$;\n- frequência dos raios de luz: $f$;\n- velocidade da luz no vácuo: $c$.\n\n**Observação:** a medida de diferença de fase entre os raios tem como referência um plano ortogonal a eles.",
+  "alternatives": [
+    "$\\frac{(n^2 - 1)df}{c}$ deve ser um número inteiro ímpar",
+    "$\\frac{(n^2 - 1)df}{c}$ deve ser um número inteiro par",
+    "$\\frac{(n - 1)df}{c}$ deve ser um número inteiro",
+    "$\\frac{2(n - 1)df}{c}$ deve ser um número inteiro ímpar",
+    "$\\frac{2(n + 1)df}{c}$ deve ser um número inteiro par"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ime/images/7_0.png"
+  ]
+}

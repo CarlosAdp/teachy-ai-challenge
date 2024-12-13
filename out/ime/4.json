@@ -1,0 +1,14 @@
+{
+  "question_number": 4,
+  "question_type": "MultipleChoice",
+  "statement": "O valor do maior inteiro $k$ para o qual $g(x)$ é divisível por $(x+2)^k$ para algum $b$ inteiro é:",
+  "support_text": "Seja o polinômio $g(x) = x^5 + x^4 - 2x^3 + bx^2 + bx - 2b$.",
+  "alternatives": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "images": []
+}

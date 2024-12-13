@@ -1,0 +1,14 @@
+{
+  "question_number": 14,
+  "question_type": "MultipleChoice",
+  "statement": "Sejam $r$ e $s$ retas no plano cartesiano que são perpendiculares e se intersectam no ponto $(3,3)$. Sabendo-se que a reta $r$ intersecta o eixo $x$ no ponto $(2,0)$, assinale a alternativa que corresponde ao valor numérico da área do triângulo delimitado pelas retas $r$ e $s$ e pelo eixo $x$.",
+  "support_text": "",
+  "alternatives": [
+    "12.",
+    "15.",
+    "21.",
+    "24.",
+    "30."
+  ],
+  "images": []
+}

@@ -1,0 +1,17 @@
+{
+  "question_number": 21,
+  "question_type": "MultipleChoice",
+  "statement": "Based on the information presented by the graph, the map and the text, it is correct to say that in March 2022",
+  "support_text": "",
+  "alternatives": [
+    "There was a heatwave in Antarctica and temperature rose to well above average.",
+    "The temperature in eastern Antarctica was 17.7 ºC warmer than usual.",
+    "The South Pole reached the unusual temperature of 40 ºC for one day in some areas.",
+    "Both Vostok and Concordia stations experienced low temperatures above zero.",
+    "The minimum temperature reached -25 ºC, as usual."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/8_0.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/8_1.png"
+  ]
+}

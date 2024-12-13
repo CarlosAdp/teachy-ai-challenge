@@ -1,0 +1,14 @@
+{
+  "question_number": 1,
+  "question_type": "MultipleChoice",
+  "statement": "O menor valor possível para a soma dos elementos de $A \\cup B \\cup C$ é:",
+  "support_text": "$A$, $B$ e $C$ são conjuntos não vazios de inteiros positivos e $|X|$ representa a cardinalidade de um conjunto $X$. Sabe-se que: $|A| = |B| = |C|$, $|A \\cap (B \\cup C)| = |\\bar{A} \\cap B \\cap C|$, $|A \\cap B| < |A \\cap C| < |B \\cap C|$.",
+  "alternatives": [
+    "21",
+    "36",
+    "45",
+    "55",
+    "78"
+  ],
+  "images": []
+}

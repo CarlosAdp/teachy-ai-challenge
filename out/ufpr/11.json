@@ -1,0 +1,14 @@
+{
+  "question_number": 11,
+  "question_type": "MultipleChoice",
+  "statement": "Admitindo-se que a altura de uma pessoa adulta é constante, se, durante um ano, ela aumentar sua massa, então é correto afirmar que nesse período o gráfico de seu IMC em função de sua massa é parte de uma:",
+  "support_text": "O Índice de Massa Corporal (IMC) de uma pessoa adulta é dado pela fórmula: \n$$IMC = \\frac{massa}{(altura)^2}$$ \n(massa medida em quilogramas) \n(altura medida em metros)",
+  "alternatives": [
+    "reta horizontal.",
+    "reta crescente.",
+    "curva crescente côncava para cima.",
+    "parábola.",
+    "senoide."
+  ],
+  "images": []
+}

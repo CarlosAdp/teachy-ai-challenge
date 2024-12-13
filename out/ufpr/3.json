@@ -1,0 +1,14 @@
+{
+  "question_number": 3,
+  "question_type": "MultipleChoice",
+  "statement": "A membrana celular, por delimitar o meio intra e extracelular, funciona como uma 'portaria', controlando o intercâmbio de substâncias, recebendo e emitindo sinais. Para cumprir essas diversas funções, a membrana conta com estruturas e sistemas especializados, como por exemplo os receptores de membrana, responsáveis pela detecção de estímulos diversos, inclusive agentes invasores, e as proteínas, que atuam no transporte de substâncias. Considerando as informações apresentadas, assinale a alternativa correta.",
+  "support_text": "",
+  "alternatives": [
+    "Agentes infecciosos conseguem infectar células humanas porque interagem com receptores celulares específicos, enganando esse sistema de reconhecimento que permite a entrada desses agentes nas células.",
+    "A passagem da água para fora da célula, em resposta à inserção desta em um meio concentrado em solutos, é feita por meio das bombas iônicas.",
+    "A bicamada fosfolipídica da membrana celular é altamente permeável a moléculas hidrofílicas, uma vez que delimita o compartimento celular em ambientes aquosos.",
+    "Os receptores de membrana responsáveis por detectar os estímulos são estruturas compostas por lipídio e fosfato, formando moléculas denominadas fosfolipídios que contêm uma cauda apolar e uma cabeça polar.",
+    "Os vírus, parasitas intracelulares obrigatórios, infectam células humanas por meio do processo de exocitose."
+  ],
+  "images": []
+}

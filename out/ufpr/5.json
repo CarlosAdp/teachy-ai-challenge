@@ -1,0 +1,14 @@
+{
+  "question_number": 5,
+  "question_type": "MultipleChoice",
+  "statement": "Sobre a contração muscular esquelética, é correto afirmar:",
+  "support_text": "",
+  "alternatives": [
+    "O sistema contrátil depende da concentração de íons $Ca^{++}$ no mioplasma, que altera as células actina e miosina, promovendo a contração.",
+    "Estímulos nervosos promovem a liberação de acetilcolina na fenda sináptica, o que leva à despolarização da membrana da célula muscular.",
+    "Actina e miosina são liberadas na fenda sináptica, o que gera um potencial de ação e promove a contração muscular esquelética.",
+    "O deslizamento das células de actina sobre as de miosina é iniciado pela liberação de ATP no sarcômero.",
+    "A despolarização da miosina promove a liberação passiva de íons $Ca^{++}$ até a membrana da actina, promovendo a contração muscular."
+  ],
+  "images": []
+}

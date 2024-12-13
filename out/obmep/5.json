@@ -1,0 +1,14 @@
+{
+  "question_number": 5,
+  "question_type": "MultipleChoice",
+  "statement": "O desenho a seguir representa um mapa que tem 7 cidades, representadas por pontos, e 5 estradas, representadas por curvas. Qual é o menor número de estradas que devem ser incluídas no desenho para que de cada cidade parta o mesmo número de estradas?",
+  "support_text": "",
+  "alternatives": [
+    "9",
+    "5",
+    "6",
+    "8",
+    "7"
+  ],
+  "images": []
+}

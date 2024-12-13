@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 24.449844121932983,
+  "query_parser_time": 45.822399854660034,
+  "total_time": 70.27224397659302,
+  "query_layout_tokens": 14418,
+  "query_parser_tokens": 16761,
+  "total_tokens": 31179,
+  "query_layout_cost ($)": 0.036045,
+  "query_parser_cost ($)": 0.0419025,
+  "total_cost ($)": 0.0779475,
+  "exam": "obmep.pdf",
+  "questions": 19
+}

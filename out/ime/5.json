@@ -1,0 +1,14 @@
+{
+  "question_number": 5,
+  "question_type": "MultipleChoice",
+  "statement": "O maior valor de $\\alpha$ real para o qual $0 < |x-1| < \\alpha \\Rightarrow |f(x)-1| < 1$ é:",
+  "support_text": "Considere a função real $$ f(x) = \\begin{cases} -2x + 3, & \\text{se } x < 1 \\\\ 2, & \\text{se } x = 1 \\\\ \\frac{x^4 - x^3}{x - 1}, & \\text{se } x > 1 \\end{cases} $$",
+  "alternatives": [
+    "\\sqrt[3]{2} - \\frac{1}{2}",
+    "\\frac{1}{2}",
+    "\\sqrt[3]{2}",
+    "-1 + \\sqrt[3]{2}",
+    "1"
+  ],
+  "images": []
+}

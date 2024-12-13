@@ -1,0 +1,8 @@
+{
+  "question_number": 20,
+  "question_type": "OpenEnded",
+  "statement": "Uma competição de matemática consiste de uma prova com três problemas. Cada aluno pode obter nota 0, 1 ou 2 em cada problema. Após a correção das provas, constatou-se que não existiam dois alunos com notas iguais nos mesmos dois problemas. Qual é o número máximo de alunos que podem ter participado da competição?",
+  "support_text": "",
+  "alternatives": [],
+  "images": []
+}

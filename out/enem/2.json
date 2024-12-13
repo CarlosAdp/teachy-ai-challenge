@@ -1,0 +1,16 @@
+{
+  "question_number": 2,
+  "question_type": "MultipleChoice",
+  "statement": "O filme Como estrelas na terra aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a)",
+  "support_text": "TEXTO I ¿QUÉ ME PASA?: ¿PORQUÉ ME CUESTA TANTO ESTUDIAR? ¿PORQUÉ ME CUESTA TANTO CONCENTRARME? PoRQUÉ...... pORQUE...... .... ¿PORQUÉ NO CONSIGO APRENDER COMO LOS DEMÁS? TEXTO II Ishaan Awashi es un niño de 8 años cuyo mundo está plagado de maravillas que nadie más parece apreciar: colores, peces, perros y cometas, que simplemente no son importantes en la vida de los adultos, que parecen más interesados en cosas como los deberes, las notas o la limpieza. E Ishaan parece no poder hacer nada bien en clase. Cuando los problemas que ocasiona superan a sus padres, es internado en un colegio para que lo disciplinen. Las cosas no mejoran en el nuevo colegio, donde Ishaan tiene ademá} de aceptar estar lejos de sus padres. Hasta que un día, el nuevo profesor de arte, Ram Shankar Nikumbh, entra en escena, se interesa por el pequeño Ishaan y todo cambia.",
+  "alternatives": [
+    "olhar diferenciado para com o outro gera mudanças.",
+    "estudante com dislexia apresenta um tom questionador.",
+    "abordagem para lidar com a dislexia é pautada na disciplina.",
+    "contato com os pais prejudica o acompanhamento da dislexia.",
+    "mudança de interesses ocorre na transição da infância para a vida adulta."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/enem/images/4_1.png"
+  ]
+}

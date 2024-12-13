@@ -1,0 +1,13 @@
+{
+  "question_number": 9,
+  "question_type": "MultipleChoice",
+  "statement": "A partir dos dois textos, escritos em momentos emblemáticos da história do Brasil (o “achamento” em 1500 e o debate de ideias para a criação de uma constituição em 1823), seria correto afirmar que os povos originários são",
+  "support_text": "Texto 1: \n“Parece-me gente de tal inocência que, se nós os entendêssemos e eles a nós, seriam logo cristãos porque eles não têm nem conhecem nenhuma crença. E, portanto, se os degredados que aqui hão de ficar aprenderem bem a sua fala e os entenderem, não duvido que eles, segundo a santa intenção de Vossa Alteza, se tornem cristãos e passem a crer em nossa santa fé, à qual praça a Nosso Senhor que os traga. Porque certamente esta gente é boa e de boa simplicidade, e imprimir-se-á ligeiramente neles qualquer cunho que lhes quiserem dar. E, pois, Nosso Senhor, que lhes deu bons corpos e bons rostos, como a bons homens, se aqui nos trouxe, creio que não foi sem um motivo.” \n(CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP, 2001, p. 108.)\n\nTexto 2:\n“As molas do homem primitivo podem ser postas em ação pelo exemplo, educação e benefícios (…). Newton, se houvesse nascido entre os guaranis, seria mais um bípede, que pisara sobre a superfície da Terra; mas um guarani criado por Newton talvez ocupasse o seu lugar. Quem ler o diálogo que traz Léry na sua viagem ao Brasil entre um francês e um velho carijó conhecerá que não falta aos índios bravos o lume natural da razão.” \n(ANDRADA E SILVA, José Bonifácio de. Projetos para o Brasil. São Paulo: Companhia das Letras, 2000, p. 50.)",
+  "alternatives": [
+    "definidos como díspares entre si, pois Caminha os vê como ingênuos, crédulos, enquanto Bonifácio alerta para o perigo dos indígenas bravos.",
+    "considerados uma página em branco e maleáveis, tanto no texto do cronista quinhentista quanto naquele do publicista oitocentista.",
+    "apontados como benignos, com a intenção de preservar os indígenas distantes da degradação dos costumes europeus.",
+    "tributários de uma imutabilidade cultural, tanto na crônica de Caminha quanto no discurso de José Bonifácio."
+  ],
+  "images": []
+}

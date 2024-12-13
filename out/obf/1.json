@@ -1,0 +1,8 @@
+{
+  "question_number": 1,
+  "question_type": "OpenEnded",
+  "statement": "Imagine uma cápsula espacial (a parte da nave onde se encontram os astronautas de certa missão) está descendo para a Lua com velocidade constante de 2 m/s. Quando se encontra a uma altura de 4 m da superfície lunar, os motores são desligados e a cápsula cai livremente. A aceleração da gravidade na superfície da Lua é de 1,6 m/s². A que velocidade (em m/s) a nave tocará o solo lunar?",
+  "support_text": "Observação: este é um dado muito importante para a segurança da tripulação.",
+  "alternatives": [],
+  "images": []
+}

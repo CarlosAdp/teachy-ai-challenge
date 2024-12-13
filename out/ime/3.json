@@ -1,0 +1,14 @@
+{
+  "question_number": 3,
+  "question_type": "MultipleChoice",
+  "statement": "O valor do número real $\\alpha$ que satisfaz à equação é:",
+  "support_text": "Seja $i$ tal que $i^2 = -1$. $cis(7\\pi/6) - 2cis(-7\\pi/6) = \\begin{vmatrix} -\\sqrt{3} & -i & 0 \\\\ \\sqrt{3}/2 & -\\sqrt{3} & \\alpha \\\\ i^5 & \\sqrt{3} & -i/2 \\end{vmatrix}$",
+  "alternatives": [
+    "3",
+    "\\sqrt{3}/2",
+    "\\sqrt{3}/4",
+    "\\sqrt{3}/8",
+    "\\sqrt{3}/16"
+  ],
+  "images": []
+}

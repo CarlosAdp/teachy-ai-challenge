@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 54.1816771030426,
+  "query_parser_time": 152.3686511516571,
+  "total_time": 206.5503282546997,
+  "query_layout_tokens": 32678,
+  "query_parser_tokens": 28579,
+  "total_tokens": 61257,
+  "query_layout_cost ($)": 0.081695,
+  "query_parser_cost ($)": 0.0714475,
+  "total_cost ($)": 0.1531425,
+  "exam": "enem.pdf",
+  "questions": 20
+}

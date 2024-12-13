@@ -1,0 +1,16 @@
+{
+  "question_number": 17,
+  "question_type": "MultipleChoice",
+  "statement": "A altura $\\Delta h$ que o recipiente irá afundar até o novo ponto de equilíbrio é:",
+  "support_text": "Um recipiente vazio de formato cônico está parcialmente imerso na água e em equilíbrio, como mostrado na figura. Insere-se no interior do recipiente uma partícula de massa $m = K\\rho\\eta h^3$, onde $K$ é uma constante, $\\rho$ é a massa específica da água e $h$ está indicado na figura. Após essa inserção, o recipiente sofre um pequeno deslocamento, afundando uma altura $\\Delta h$.\n\n**Dado:** aceleração da gravidade: $g$.\n\n**Observações:** a espessura do recipiente é muito pequena; $\\Delta h \\ll h$; para $|\\alpha| \\ll 1$, $(1 + \\alpha)^n \\approx 1 + n\\alpha$.",
+  "alternatives": [
+    "\\frac{Kh}{3}",
+    "\\frac{Kh}{6}",
+    "Kh",
+    "3Kh",
+    "2Kh"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ime/images/6_2.png"
+  ]
+}

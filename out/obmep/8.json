@@ -1,0 +1,14 @@
+{
+  "question_number": 8,
+  "question_type": "MultipleChoice",
+  "statement": "Os 45 alunos de uma turma compraram os 100 bilhetes de um sorteio, em diferentes quantidades, de acordo com a tabela. É mais provável que o bilhete sorteado tenha sido comprado por um aluno que comprou 1, 2, 3, 4 ou 5 bilhetes?",
+  "support_text": "",
+  "alternatives": [
+    "5 bilhetes",
+    "2 bilhetes",
+    "4 bilhetes",
+    "3 bilhetes",
+    "1 bilhete"
+  ],
+  "images": []
+}

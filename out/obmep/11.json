@@ -1,0 +1,14 @@
+{
+  "question_number": 11,
+  "question_type": "MultipleChoice",
+  "statement": "Pedro colocou os números 1, 2, 3, 4 e 5 nas casas do tabuleiro abaixo, um número em cada casa, sem repetir números nas linhas e nas colunas. Em seguida, ele somou os oito números colocados na primeira e na última colunas. Qual dos números abaixo não pode ser um resultado para a soma que Pedro fez?",
+  "support_text": "",
+  "alternatives": [
+    "20",
+    "23",
+    "26",
+    "25",
+    "21"
+  ],
+  "images": []
+}

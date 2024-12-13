@@ -1,0 +1,14 @@
+{
+  "question_number": 10,
+  "question_type": "MultipleChoice",
+  "statement": "Dadas essas informações, é possível inferir que a energia cinética da partícula é igual a",
+  "support_text": "Considere um sistema de coordenadas $x, y, z$ com respectivos vetores de base $\\{\\hat{i}, \\hat{j}, \\hat{k}\\}$, sendo $z$ a coordenada vertical. Uma partícula de massa $m$ e carga elétrica de módulo $q$ é colocada em movimento no vácuo, com velocidade $\\vec{v} = v \\sin\\theta \\hat{j} - v \\cos \\theta \\hat{k}$, em um espaço tridimensional. Nesse espaço, existe um campo magnético uniforme, $\\vec{B} = B \\hat{i}$, e um campo gravitacional constante, $\\vec{g} = -g \\hat{k}$. O ângulo $\\theta$ é escolhido de tal forma que a energia cinética da partícula seja conservada.",
+  "alternatives": [
+    "A ( ) $\\frac{m^3g^2}{q^2B^2}$.",
+    "B ( ) $\\frac{2}{3} \\frac{m^3g^2}{q^2B^2}$.",
+    "C ( ) $\\frac{2m^3g^2}{q^2B^2}$.",
+    "D ( ) $\\frac{1}{4} \\frac{m^3g^2}{q^2B^2}$.",
+    "E ( ) $\\frac{1}{2} \\frac{m^3g^2}{q^2B^2}$."
+  ],
+  "images": []
+}

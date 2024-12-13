@@ -1,0 +1,8 @@
+{
+  "question_number": 14,
+  "question_type": "OpenEnded",
+  "statement": "Em um conjunto de números inteiros positivos, a média aritmética dos dois maiores é 50, dos três maiores é 48, dos quatro maiores é 46 e assim por diante, diminuindo de 2 em 2. Qual é o menor número que pode pertencer a esse conjunto?",
+  "support_text": "",
+  "alternatives": [],
+  "images": []
+}

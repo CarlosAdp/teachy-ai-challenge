@@ -1,0 +1,16 @@
+{
+  "question_number": 13,
+  "question_type": "MultipleChoice",
+  "statement": "Na figura ao lado, tem-se duas circunferências que se tangenciam no ponto $Q$. Os raios dessas circunferências são $R_1$ e $R_2$, com $R_1 < R_2$. Cada uma das retas $r$ e $s$ é tangente simultaneamente às duas circunferências; adicionalmente, essas retas se intersectam no ponto $P$. Qual é a distância entre os pontos $P$ e $Q$?",
+  "support_text": "",
+  "alternatives": [
+    "$2 \\frac{R_1 + R_2}{R_2 - R_1}$",
+    "$2 \\frac{R_2 - R_1}{R_1 R_2}$",
+    "$2 \\frac{R_1 + R_2}{R_2 R_1}$",
+    "$2 \\frac{R_2 - R_1}{R_1 + R_2}$",
+    "$2 \\frac{R_1 R_2}{R_2 - R_1}$"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ufpr/images/5_1.png"
+  ]
+}

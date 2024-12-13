@@ -1,0 +1,14 @@
+{
+  "question_number": 18,
+  "question_type": "MultipleChoice",
+  "statement": "Oito pessoas, incluindo os irmãos Antônio, Bruno e Carlos, vão passear em 4 canoas diferentes. Em cada canoa vão sentar 2 pessoas. As 8 pessoas são distribuídas aleatoriamente entre as 4 canoas. Qual é a probabilidade de que dois irmãos quaisquer não fiquem juntos em uma mesma canoa?",
+  "support_text": "",
+  "alternatives": [
+    "4/7",
+    "2/7",
+    "1/9",
+    "2/3",
+    "6/8"
+  ],
+  "images": []
+}

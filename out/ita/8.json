@@ -1,0 +1,20 @@
+{
+  "question_number": 8,
+  "question_type": "MultipleChoice",
+  "statement": "Assinale a alternativa que melhor representa o que vai ser visto na chapa fotográfica.",
+  "support_text": "Considere um filtro polarizador linear no plano $S$, cuja polarização é paralela ao eixo $x$. Uma onda eletromagnética com polarização linear no eixo $z$ propaga-se na direção do eixo $y$. Um pêndulo é colocado na frente do filtro. A ponta do pêndulo contém uma pequena placa circular feita de um filtro de polarização linear.",
+  "alternatives": [
+    "A ( ) ",
+    "B ( ) ",
+    "C ( ) ",
+    "D ( ) ",
+    "E ( ) "
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/5_0.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/5_1.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/5_2.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/5_3.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/ita/images/5_4.png"
+  ]
+}

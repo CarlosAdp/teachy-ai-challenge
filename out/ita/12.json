@@ -1,0 +1,14 @@
+{
+  "question_number": 12,
+  "question_type": "MultipleChoice",
+  "statement": "Sabendo que seu tempo de vida, em repouso, é de $2,2 \\mu s$, a mínima altitude que essa partícula atinge aproximadamente, é de",
+  "support_text": "A todo instante, raios cósmicos atingem a atmosfera terrestre e colidem com núcleos atômicos. Dessas interações, é formada uma cascata de partículas que permeia nossa atmosfera. Muitas dessas partículas são instáveis, o que significa que, após determinado intervalo de tempo (tempo de vida) decaem. Seja um múon criado a uma altitude de 100 km e que se movimenta com uma velocidade vertical em direção ao solo de $0,9999c$.",
+  "alternatives": [
+    "A ( ) 0 km.",
+    "B ( ) 0,66 km.",
+    "C ( ) 46 km.",
+    "D ( ) 53 km.",
+    "E ( ) 99 km."
+  ],
+  "images": []
+}

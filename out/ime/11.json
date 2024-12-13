@@ -1,0 +1,14 @@
+{
+  "question_number": 11,
+  "question_type": "MultipleChoice",
+  "statement": "O valor de $n \\in \\mathbb{N}$ tal que $\\arctg\\left(\\frac{1}{3}\\right) + \\arctg\\left(\\frac{1}{4}\\right) + \\arctg\\left(\\frac{1}{5}\\right) + \\arctg\\left(\\frac{1}{n}\\right) = \\frac{\\pi}{4}$ é:",
+  "support_text": "",
+  "alternatives": [
+    "10",
+    "6",
+    "7",
+    "47",
+    "52"
+  ],
+  "images": []
+}

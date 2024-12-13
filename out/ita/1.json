@@ -1,0 +1,14 @@
+{
+  "question_number": 1,
+  "question_type": "MultipleChoice",
+  "statement": "Pode(m) descrever de maneira correta o lançamento em ar atmosférico apenas a(s) curva(s)",
+  "support_text": "Uma partícula é lançada horizontalmente de uma determinada altura em relação ao solo em duas situações: uma em vácuo e outra em ar atmosférico estático, mantendo todas as outras características, como altura e velocidade inicial idênticas. O gráfico do módulo de sua velocidade $v$ em função da distância horizontal $x$, no caso do lançamento no vácuo, é mostrado na figura pela curva em linha tracejada, juntamente com mais outras quatro curvas. O ponto no extremo de cada curva indica a posição em que a partícula atingiu o solo.",
+  "alternatives": [
+    "A ( ) II.",
+    "B ( ) II, III e IV.",
+    "C ( ) I e III.",
+    "D ( ) I e IV.",
+    "E ( ) I e III."
+  ],
+  "images": []
+}

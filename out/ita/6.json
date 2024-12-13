@@ -1,0 +1,14 @@
+{
+  "question_number": 6,
+  "question_type": "MultipleChoice",
+  "statement": "Sobre as afirmações I, II e III pode-se afirmar que",
+  "support_text": "Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro etapas: (i) expansão isotérmica, à temperatura $T_q$, saindo do volume inicial $V_0$ até o volume final $V_f$; (ii) resfriamento isocórico de $T_q$ até $T_f$; (iii) compressão isotérmica, à temperatura $T_f$, de $V_f$ até $V_0$; e (iv) aquecimento isocórico de $T_f$ até $T_q$. A máquina é inicialmente preparada para operar com o ar atmosférico como fluido de trabalho.",
+  "alternatives": [
+    "A ( ) todas estão corretas.",
+    "B ( ) apenas I está incorreta.",
+    "C ( ) apenas II está correta.",
+    "D ( ) apenas III está correta.",
+    "E ( ) apenas I e III estão incorretas."
+  ],
+  "images": []
+}

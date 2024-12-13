@@ -1,0 +1,14 @@
+{
+  "question_number": 12,
+  "question_type": "MultipleChoice",
+  "statement": "Considere um hexágono regular de área 1 e todos os triângulos cujos vértices são também vértices do hexágono. Qual é a soma das áreas de todos esses triângulos?",
+  "support_text": "",
+  "alternatives": [
+    "6",
+    "7",
+    "5",
+    "4",
+    "3"
+  ],
+  "images": []
+}

@@ -1,0 +1,14 @@
+{
+  "question_number": 6,
+  "question_type": "MultipleChoice",
+  "statement": "Considere que o destino dos heterótrofos é se alimentarem de um autótrofo, ou ainda de outro heterótrofo que, por sua vez, alimentou-se de um autótrofo. Isso pode continuar por muitos níveis tróficos, mas no início sempre há um autótrofo. A esse respeito, é correto afirmar:",
+  "support_text": "",
+  "alternatives": [
+    "Os heterótrofos são a base da cadeia alimentar, responsáveis pela produção primária e pela maior produção de biomassa.",
+    "Os heterótrofos são carnívoros predadores de herbívoros autótrofos, que são a base da cadeia alimentar e consumidores de maior biomassa.",
+    "Seres autótrofos estão na base da cadeia alimentar, pois são produtores e consomem diretamente os seres fotossintetizantes.",
+    "Seres fotossintetizantes são base de cadeia alimentar e servem de alimento para consumidores primários, que são alimento para consumidores secundários.",
+    "Em uma cadeia alimentar, os autótrofos estão sempre no início, mas também podem comportar-se como consumidores primários e secundários."
+  ],
+  "images": []
+}

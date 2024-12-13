@@ -1,0 +1,14 @@
+{
+  "question_number": 12,
+  "question_type": "MultipleChoice",
+  "statement": "No soneto, verifica-se rima entre palavras de classes gramaticais diferentes",
+  "support_text": null,
+  "alternatives": [
+    "em “vizinha”/“esquadrinha” (2ª estrofe) e em “nobres”/“pobres” (3ª/4ª estrofes).",
+    "em “vinha”/“cozinha” (1ª estrofe) e em “olheiro”/“terreiro” (2ª estrofe).",
+    "em “conselheiro”/“inteiro” (1ª e 2ª estrofe) e em “olheiro”/“terreiro” (2ª estrofe).",
+    "em “conselheiro”/“inteiro” (1ª e 2ª estrofe) e em “vizinha”/“esquadrinha” (2ª estrofe).",
+    "em “desavergonhados”/“mercados” (3ª/4ª estrofes) e em “nobres”/“pobres” (3ª/4ª estrofes)."
+  ],
+  "images": []
+}

@@ -1,0 +1,14 @@
+{
+  "model": "gpt-4o",
+  "query_layout_time": 22.093059301376343,
+  "query_parser_time": 42.01031541824341,
+  "total_time": 64.10337471961975,
+  "query_layout_tokens": 20049,
+  "query_parser_tokens": 13611,
+  "total_tokens": 33660,
+  "query_layout_cost ($)": 0.0501225,
+  "query_parser_cost ($)": 0.0340275,
+  "total_cost ($)": 0.08415,
+  "exam": "uerj.pdf",
+  "questions": 15
+}

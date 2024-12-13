@@ -1,0 +1,15 @@
+{
+  "question_number": 3,
+  "question_type": "MultipleChoice",
+  "statement": "A partir disso, assinale a pirâmide etária que melhor representa as informações projetadas para o ano de 2050:",
+  "support_text": "O gráfico a seguir apresenta o registro histórico e a projeção do total de mortes e nascimentos em certa região do mundo em dado período:",
+  "alternatives": [
+    "A)",
+    "B)"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/fuvest/images/3_1.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/fuvest/images/3_2.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/fuvest/images/3_3.png"
+  ]
+}

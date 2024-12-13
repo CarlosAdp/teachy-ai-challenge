@@ -1,0 +1,14 @@
+{
+  "question_number": 4,
+  "question_type": "MultipleChoice",
+  "statement": "O metabolismo animal requer que as células sejam supridas com oxigênio e o gás carbônico seja eliminado em um processo de troca gasosa com o ambiente que chamamos de respiração. Sobre o tema, assinale a alternativa correta.",
+  "support_text": "",
+  "alternatives": [
+    "A respiração branquial se dá pela superfície do corpo que precisa ser mantida sempre úmida, ocorrendo, portanto, em animais que vivem na água ou em ambientes úmidos.",
+    "A respiração traqueal, presente em alguns animais adaptados à vida terrestre, não possui relação com a circulação, uma vez que os sistemas de traqueias levam diretamente o oxigênio às células do corpo.",
+    "Os sacos aéreos são estruturas anexas ao pulmão das aves que, além de auxiliarem o voo dos animais, atuam na excreção do ácido úrico.",
+    "O pulmão dos mamíferos é formado por uma grande quantidade de tubos finos chamados alvéolos e minúsculas bolsas chamadas brônquios, altamente vascularizadas, por onde a troca gasosa ocorre.",
+    "O metabolismo celular consiste de reações químicas que visam a formação de adenosina trifosfato (ATP) a partir de glicose e gás carbônico."
+  ],
+  "images": []
+}

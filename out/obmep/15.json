@@ -1,0 +1,14 @@
+{
+  "question_number": 15,
+  "question_type": "MultipleChoice",
+  "statement": "As figuras mostram as vistas de frente, de cima e da esquerda de um sólido montado com cubos iguais. Quantos cubos tem esse sólido?",
+  "support_text": "",
+  "alternatives": [
+    "8",
+    "12",
+    "6",
+    "16",
+    "9"
+  ],
+  "images": []
+}

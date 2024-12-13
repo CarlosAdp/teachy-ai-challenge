@@ -1,0 +1,16 @@
+{
+  "question_number": 13,
+  "question_type": "MultipleChoice",
+  "statement": "Ao acreditar na narrativa do sapo,",
+  "support_text": "Examine a tirinha da cartunista Laerte, publicada em sua conta do Instagram em 28.03.2022.",
+  "alternatives": [
+    "os solstícios e os equinócios seriam consequência de uma espécie de disputa entre o pai e a mãe da Terra.",
+    "a Lua permaneceria imóvel no céu, quando vista da superfície da Terra.",
+    "o dia e a noite seriam consequência de uma espécie de disputa entre o pai e a mãe da Terra.",
+    "as quatro estações seriam consequência de uma espécie de disputa entre o pai e a mãe da Terra.",
+    "o Sol permaneceria imóvel no céu, quando visto da superfície da Terra."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/5_0.png"
+  ]
+}

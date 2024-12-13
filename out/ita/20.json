@@ -1,0 +1,14 @@
+{
+  "question_number": 20,
+  "question_type": "MultipleChoice",
+  "statement": "Leia o trecho destacado do conto “Atrás da catedral de Ruão”, de Mário de Andrade, e, em seguida, assinale a alternativa correta.",
+  "support_text": "“E lhes enfiou na mão um níquel pra cada um, pagou! Pagou a ‘bonne compagnie’. Subiu as escadas correndo, foi chorar.”",
+  "alternatives": [
+    "A ( ) Mademoiselle pagou um níquel a cada um dos homens, pois eles a acompanharam até a pensão.",
+    "B ( ) Mademoiselle subiu correndo e chorou porque os dois homens a xingaram grosseiramente.",
+    "C ( ) Mademoiselle subiu correndo e chorou porque havia sido atacada pelos dois homens.",
+    "D ( ) a tristeza e a urgência de Mademoiselle devem-se ao fato de ela ter tomado consciência de sua vida solitária depois de fantasiar uma perseguição.",
+    "E ( ) a fantasia de haver sido perseguida por dois homens trouxe alívio e calma a Mademoiselle e, por isso, ela pagou um níquel a cada um dos homens."
+  ],
+  "images": []
+}

@@ -1,0 +1,14 @@
+{
+  "question_number": 10,
+  "question_type": "MultipleChoice",
+  "statement": "Considere as equações $a + b = c^2$ e $a + b + c = 20$. Assinale a alternativa que corresponde à quantidade de triplas ordenadas $(a, b, c)$ que satisfaçam simultaneamente essas duas equações, sendo $a, b, c$ números inteiros positivos.",
+  "support_text": "",
+  "alternatives": [
+    "11.",
+    "12.",
+    "13.",
+    "14.",
+    "15."
+  ],
+  "images": []
+}

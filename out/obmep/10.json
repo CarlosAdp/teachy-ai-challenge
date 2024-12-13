@@ -1,0 +1,14 @@
+{
+  "question_number": 10,
+  "question_type": "MultipleChoice",
+  "statement": "O triângulo $ABC$ da figura é isósceles e sua base $AB$ mede 8 cm. Os pontos $M$ e $N$ são pontos médios dos lados $AC$ e $BC$, respectivamente. Qual é o perímetro, em centímetros, do triângulo $ABC$?",
+  "support_text": "",
+  "alternatives": [
+    "32",
+    "30",
+    "38",
+    "34",
+    "36"
+  ],
+  "images": []
+}

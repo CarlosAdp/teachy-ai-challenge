@@ -1,0 +1,14 @@
+{
+  "question_number": 9,
+  "question_type": "MultipleChoice",
+  "statement": "A respeito das trocas gasosas em tecidos e órgãos das plantas, é correto afirmar:",
+  "support_text": "",
+  "alternatives": [
+    "As folhas são as partes das plantas que mais realizam trocas gasosas com o ambiente, garantindo que a taxa de fotossíntese seja sempre mais alta do que a taxa respiratória.",
+    "Em cactáceas, as trocas gasosas ocorrem somente durante dia, pois a alta incidência de luz solar promove a abertura dos estômatos.",
+    "Devido à baixa disponibilidade de oxigênio dissolvido na água ou presente no solo, plantas de mangues retiram oxigênio do ar por meio de pneumatóforos.",
+    "Plantas são adaptadas a manter as trocas gasosas em taxas constantes, independentemente das variações de temperatura e luminosidade ambiental.",
+    "As plantas realizam apenas respiração anaeróbica, pois o gás oxigênio não é utilizado pela planta, mas liberado para a atmosfera durante a fotossíntese."
+  ],
+  "images": []
+}

@@ -1,0 +1,12 @@
+{
+  "question_number": 17,
+  "question_type": "MultipleChoice",
+  "statement": "Ana, Bia e Carla visitaram a floricultura de seu bairro. O vendedor separou as 5 flores mostradas na figura e disse que iria presentear cada uma com uma dessas flores. Carla escutou a seguinte conversa entre Bia e Ana: — Bia disse: “Oi Ana, eu e Carla sabemos a cor de cada uma das flores que vamos ganhar, mas nem eu nem ela sabemos as quantidades de pétalas das flores que cada uma de nós irá ganhar”. — Ana disse: “Eu sei a quantidade de pétalas da flor que vou ganhar, mas não sei a cor”. A partir dessa conversa, Carla descobriu a flor que Ana vai ganhar. Qual é essa flor?",
+  "support_text": "",
+  "alternatives": [
+    "(A)",
+    "(B)",
+    "(C)"
+  ],
+  "images": []
+}

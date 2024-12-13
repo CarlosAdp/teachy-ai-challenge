@@ -1,0 +1,14 @@
+{
+  "question_number": 13,
+  "question_type": "MultipleChoice",
+  "statement": "Uma folha quadrada de papel, branca de um lado e cinza do outro, tem área igual a $75 \text{ cm}^2$. A folha é dobrada de modo que o vértice $P$ seja levado a um ponto $P'$ da diagonal $PR$, conforme a figura. Depois da dobra, as partes branca e cinza visíveis ficaram com a mesma área. Qual é a distância, em centímetros, do ponto $P'$ até o ponto $P$?",
+  "support_text": "",
+  "alternatives": [
+    "7,0",
+    "7,5",
+    "5,0",
+    "6,5",
+    "6,0"
+  ],
+  "images": []
+}

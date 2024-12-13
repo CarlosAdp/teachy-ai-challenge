@@ -1,0 +1,13 @@
+{
+  "query_layout_time": 25.83209252357483,
+  "query_parser_time": 31.760162591934204,
+  "total_time": 57.59225511550903,
+  "query_layout_tokens": 17511,
+  "query_parser_tokens": 593730,
+  "total_tokens": 611241,
+  "query_layout_cost ($)": 0.0437775,
+  "query_parser_cost ($)": 1.484325,
+  "total_cost ($)": 1.5281025,
+  "exam": "obf.pdf",
+  "questions": 9
+}

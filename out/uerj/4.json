@@ -1,0 +1,18 @@
+{
+  "question_number": 4,
+  "question_type": "MultipleChoice",
+  "statement": "A obra de arte de inspiração cartográfica que mantém essa mesma postura é:",
+  "support_text": "No texto, Ailton Krenak mantém uma postura crítica em relação ao colonialismo europeu.",
+  "alternatives": [
+    "Ai Weiwei",
+    "Kim Baranowski",
+    "Torres Garcia",
+    "Doug Beube"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/uerj/images/5_0.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/uerj/images/5_1.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/uerj/images/5_2.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/uerj/images/5_3.png"
+  ]
+}

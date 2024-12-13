@@ -1,0 +1,14 @@
+{
+  "question_number": 13,
+  "question_type": "MultipleChoice",
+  "statement": "O ângulo máximo $AOB$ enquanto o observador $O$ caminha sobre o plano horizontal é:",
+  "support_text": "Considere uma barra $AB$ de comprimento $L$ fixada na posição vertical sobre um muro de altura $L/2$, que está assentado sobre um plano horizontal. Desprezando a altura do observador $O$.",
+  "alternatives": [
+    "30^\\circ",
+    "60^\\circ",
+    "75^\\circ",
+    "15^\\circ",
+    "45^\\circ"
+  ],
+  "images": []
+}

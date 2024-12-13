@@ -1,0 +1,16 @@
+{
+  "question_number": 4,
+  "question_type": "MultipleChoice",
+  "statement": "Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
+  "support_text": "“Oh, you’ll love working here. Nobody treats you any differently just because of your age, race, or gender.”",
+  "alternatives": [
+    "criticar um padrão de vestimenta.",
+    "destacar a falta de diversidade.",
+    "indicar um modo de interação.",
+    "elogiar um modelo de organização.",
+    "salientar o espírito de cooperação."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/enem/images/3_0.png"
+  ]
+}

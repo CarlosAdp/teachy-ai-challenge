@@ -1,0 +1,16 @@
+{
+  "question_number": 21,
+  "question_type": "MultipleChoice",
+  "statement": "Ao ser submetido a um aumento de temperatura $T$, o ponto $B$ é deslocado de:",
+  "support_text": "Inicialmente, um poste, fabricado com material de coeficiente de dilatação volumétrica $\\gamma$, tem as dimensões indicadas na figura, estando o ponto $A$ fixo.",
+  "alternatives": [
+    "$\\frac{\\sqrt{17}\\gamma TL}{4}$",
+    "$\\frac{5\\gamma TL}{12}$",
+    "$\\frac{\\sqrt{17}\\gamma TL}{21}$",
+    "$\\frac{\\sqrt{17}\\gamma TL}{12}$",
+    "$\\frac{\\gamma TL}{4}$"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ime/images/9_1.png"
+  ]
+}

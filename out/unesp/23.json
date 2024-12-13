@@ -1,0 +1,17 @@
+{
+  "question_number": 23,
+  "question_type": "MultipleChoice",
+  "statement": "Based on your knowledge of geography, as well as on the information provided by the text, map and graph, Antarctica",
+  "support_text": "",
+  "alternatives": [
+    "Is claimed to be a territory by countries such as Brazil, Argentina, Russia, United States and Australia.",
+    "Has a permanent native population as well as a population of thousands of scientists.",
+    "Is the native habitat of penguins, the only bird species in the continent.",
+    "Is a continent that does not belong to any country and has no government.",
+    "Is also called the boreal hemisphere due to its location."
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/8_0.png",
+    "/home/carlos/projects/teachy-ai-challenge/out/unesp/images/8_1.png"
+  ]
+}

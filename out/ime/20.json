@@ -1,0 +1,16 @@
+{
+  "question_number": 20,
+  "question_type": "MultipleChoice",
+  "statement": "A expressão que representa o deslocamento $x$ do êmbolo até o novo ponto de equilíbrio é:",
+  "support_text": "Dois gases perfeitos, $G_1$ e $G_2$, estão contidos em recipientes rígidos, separados por um êmbolo que se move sem atrito por um tubo longo de área de seção transversal $S$, conforme a figura. Cada um dos gases possui volume inicial $V$, a uma temperatura de 27 °C. Considere a seguinte transformação isobárica do conjunto: a temperatura de $G_1$ aumenta 100 °C e a de $G_2$ diminui 100 °C.",
+  "alternatives": [
+    "$\\frac{2V}{3S}$",
+    "$\\frac{3V}{2S}$",
+    "$\\frac{V}{2S}$",
+    "$\\frac{V}{3S}$",
+    "$\\frac{V}{6S}$"
+  ],
+  "images": [
+    "/home/carlos/projects/teachy-ai-challenge/out/ime/images/9_0.png"
+  ]
+}

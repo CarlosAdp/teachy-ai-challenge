@@ -1,0 +1,14 @@
+{
+  "question_number": 20,
+  "question_type": "MultipleChoice",
+  "statement": "O termo literário a que o texto se refere é o",
+  "support_text": "The literary principle according to which the writing and criticism of poetry and drama were to be guided by rules and precedents derived from the best ancient Greek and Roman authors; a codified form of classicism that dominated French literature in the 17th and 18th centuries, with a significant influence on English writing, especially from 1660 to c.1780. In a more general sense, often employed in contrast with romanticism, the term has also been used to describe the characteristic world-view or value-system of the “Age of Reason,” denoting a preference for rationality, clarity, restraint, order, and decorum, and for general truths rather than particular insights.",
+  "alternatives": [
+    "renascimento.",
+    "barroco.",
+    "romantismo.",
+    "naturalismo.",
+    "neoclassicismo."
+  ],
+  "images": []
+}

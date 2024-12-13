@@ -1,0 +1,14 @@
+{
+  "question_number": 9,
+  "question_type": "MultipleChoice",
+  "statement": "O valor de $e^{-A}$ é:",
+  "support_text": "Seja $i$ tal que $i^2 = -1$. Seja $A$ dado pela equação: $$ A = \\sum_{n=1}^{1000} \\left[(i)^{2n-2}\\ln\\left(\\frac{n+1}{n+2}\\right)^{(-1)^{n-1}}\\right] $$",
+  "alternatives": [
+    "250",
+    "500",
+    "501",
+    "1000",
+    "1001"
+  ],
+  "images": []
+}

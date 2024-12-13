@@ -1,0 +1,14 @@
+{
+  "question_number": 6,
+  "question_type": "MultipleChoice",
+  "statement": "Considerando o texto da lei e o contexto político da Inglaterra ao fim do processo revolucionário no século XVII, é correto afirmar que a Declaração de Direitos de 1689",
+  "support_text": "“O pretenso poder de suspender as leis ou executá-las é ilegal.”",
+  "alternatives": [
+    "A) Suprime todas as prerrogativas do Parlamento.",
+    "B) Dispensa o aval parlamentar para mudar a legislação.",
+    "C) Impõe limites ao poder monárquico.",
+    "D) Impossibilita a criação de um exército.",
+    "E) Estabelece um regime republicano."
+  ],
+  "images": []
+}

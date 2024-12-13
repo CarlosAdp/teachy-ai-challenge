@@ -1,0 +1,14 @@
+{
+  "question_number": 2,
+  "question_type": "MultipleChoice",
+  "statement": "Na figura, $ABCD$ e $BEFC$ são quadrados, cada um com $60 \text{ cm}^2$ de área. Qual é a área, em $\text{cm}^2$, da região cinza?",
+  "support_text": "",
+  "alternatives": [
+    "50",
+    "30",
+    "70",
+    "100",
+    "45"
+  ],
+  "images": []
+}
