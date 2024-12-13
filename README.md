@@ -28,17 +28,17 @@ There are two types of questions. You should consider:
 PoC's Specifications:
 
 ### MUST HAVEs:
-- Accept PDF inputs
-- Extract the aforementioned components of each type of question
-- Extract Support Text for questions
-- Extract images and link them to their question(s) 
-- Support exams that have a two-column layout
-- Enumerate Questions correctly
+- [x] Accept PDF inputs
+- [ ] Extract the aforementioned components of each type of question
+- [ ] Extract Support Text for questions
+- [ ] Extract images and link them to their question(s) 
+- [ ] Support exams that have a two-column layout
+- [ ] Enumerate Questions correctly
 
 ### NICE TO HAVEs:
-- Represent Equations correctly in LaTeX
-- Represent Chemical Formulas correctly
-- Support questions where the text is split between consecutive pages or consecutive columns
+- [ ] Represent Equations correctly in LaTeX
+- [ ] Represent Chemical Formulas correctly
+- [ ] Support questions where the text is split between consecutive pages or consecutive columns
 
 Example JSON of a question should look like this:
 
