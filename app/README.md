@@ -89,6 +89,28 @@ each question:
 - `alternatives`
 - `images`
 
+## Costs
+
+Find below how much was spent in OpenAI's API usage per exam:
+
+| Exam      | Cost       |
+|-----------|------------|
+| ita       | $0.1205    |
+| ufpr      | $0.1057    |
+| unesp     | $0.1380    |
+| fuvest    | $0.1319    |
+| enem      | $0.1531    |
+| uerj      | $0.0842    |
+| ime       | $0.1318    |
+| unicamp   | $0.1554    |
+| obf       | $1.5281    |
+| obmep     | $0.0779    |
+
+OBF higher cost is justified by the large number of images the PDF contained.
+
+More detailes can be found at `/out/<exam>/execution_metadata.json`.
+
+
 ## Next Steps
 
 Find below some improvements that can be made to this pipeline
